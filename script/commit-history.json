@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Harold Sejas",
+    "commit": {
+      "date": "2025-08-21T12:25:44.000Z",
+      "message": "Primer commit: hola",
+      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 2,
+      "deletions": 12,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
