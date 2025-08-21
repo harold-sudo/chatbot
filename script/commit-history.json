@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "28ddef773f4f9768b18872c85c808143ecabefb8",
     "author": "Harold Sejas",
     "commit": {
       "date": "2025-08-21T12:25:44.000Z",
       "message": "Primer commit: hola",
-      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+      "url": "https://github.com/harold-sudo/chatbot/commit/28ddef773f4f9768b18872c85c808143ecabefb8"
     },
     "stats": {
       "total": 14,
       "additions": 2,
       "deletions": 12,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Harold Sejas",
+    "commit": {
+      "date": "2025-08-21T12:36:11.000Z",
+      "message": "feat: saludar por nombre",
+      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 13,
+      "deletions": 7,
       "date": "2025-08-21"
     },
     "coverage": 100,
