@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e5788544a5d5d9abb9111e80acc556cabedf5a7f",
     "author": "Harold Sejas",
     "commit": {
       "date": "2025-08-21T13:17:44.000Z",
       "message": "feat: saludar por genero",
-      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+      "url": "https://github.com/harold-sudo/chatbot/commit/e5788544a5d5d9abb9111e80acc556cabedf5a7f"
     },
     "stats": {
       "total": 32,
       "additions": 28,
       "deletions": 4,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Harold Sejas",
+    "commit": {
+      "date": "2025-08-21T13:40:03.000Z",
+      "message": "fix: saludar",
+      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+    },
+    "stats": {
+      "total": 29,
+      "additions": 21,
+      "deletions": 8,
       "date": "2025-08-21"
     },
     "coverage": 100,
