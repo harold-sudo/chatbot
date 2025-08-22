@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5145244c492c3a039132ae58c41749c82692ffd8",
     "author": "Harold Sejas",
     "commit": {
       "date": "2025-08-21T13:40:03.000Z",
       "message": "fix: saludar",
-      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+      "url": "https://github.com/harold-sudo/chatbot/commit/5145244c492c3a039132ae58c41749c82692ffd8"
     },
     "stats": {
       "total": 29,
@@ -93,5 +93,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Harold Sejas",
+    "commit": {
+      "date": "2025-08-22T18:39:31.000Z",
+      "message": "feat: Saludar por edad",
+      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 23,
+      "deletions": 21,
+      "date": "2025-08-22"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]

@@ -1,12 +1,26 @@
-function genero(gen)
+function genero(gen, edad)
 {
-    if (gen === "Femenino")
+    if (edad < 30)
     {
-        return "estimada";
+        if (gen === "Femenino")
+        {
+            return "estimada";
+        }
+        else
+        {
+            return "estimado";
+        }
     }
     else
     {
-        return "estimado";
+        if (gen === "Femenino")
+        {
+            return "Sra.";
+        }
+        else
+        {
+            return "Sr.";
+        }
     }
 }
 
