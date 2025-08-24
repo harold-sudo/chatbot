@@ -10,11 +10,10 @@ const div = document.querySelector("#resultado-div");
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
-
-  const nameValue = name.value;
+  
   const hora = getHour();
   const genText = genero(gen.value, edad.value);
   const saludo = saludar(hora);
   
-  div.innerHTML = "<p>" + saludo + " "+ genText + " " + nameValue + "</p>";
+  div.innerHTML = "<p>" + saludo + " "+ genText + " " + name + "</p>";
 });
