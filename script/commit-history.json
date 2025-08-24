@@ -114,12 +114,12 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "8faa05ae9625123297da6a29e470b2e2a25df5fc",
     "author": "Harold Sejas",
     "commit": {
       "date": "2025-08-24T13:13:22.000Z",
       "message": "feat: tests con jest",
-      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+      "url": "https://github.com/harold-sudo/chatbot/commit/8faa05ae9625123297da6a29e470b2e2a25df5fc"
     },
     "stats": {
       "total": 4209,
@@ -129,6 +129,25 @@
     },
     "coverage": 82.35,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Harold Sejas",
+    "commit": {
+      "date": "2025-08-24T14:05:09.000Z",
+      "message": "feat: saludar en Inglés + tests",
+      "url": "https://github.com/harold-sudo/chatbot/commit/HEAD"
+    },
+    "stats": {
+      "total": 112,
+      "additions": 71,
+      "deletions": 41,
+      "date": "2025-08-24"
+    },
+    "coverage": 100,
+    "test_count": 10,
     "failed_tests": 0,
     "conclusion": "success"
   }

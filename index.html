@@ -6,19 +6,25 @@
   <body>
     <h1>Saludador</h1>
     <form id="saludar-form">
-      <label for="nombre">¿Cuál es tu nombre? </label>
-      <input type="nombre-input" id="nombre" />
+      <label for="idioma">¿Qué idioma deseas?/ ¿Which language do you desire?</label>
+      <select id="idioma">
+        <option value="espanol">Español</option>
+        <option value="ingles">Inglés</option>
+      </select>
+      <br>      
+      <label for="nombre">¿Cuál es tu nombre?/ ¿What's your name?</label>
+      <input type="text" id="nombre" />
       <br>
-      <label for="genero">¿Cuál es tu género? </label>
+      <label for="genero">¿Cuál es tu género?/ ¿What's your gender </label>
       <select id="genero">
-        <option value="masculino">Masculino</option>
-        <option value="femenino">Femenino</option>
+        <option value="masculino">Masculino/ Male</option>
+        <option value="femenino">Femenino/ Female</option>
       </select>
       <br>
-      <label for="edad">¿Cuál es tu edad? </label>
-      <input type="edad-input" id="edad" />
+      <label for="edad">¿Cuál es tu edad?/ ¿What's your age?</label>
+      <input type="number" id="edad" />
       <br>
-      <input type="submit" value="Saludar" id="saludar-button" />
+      <input type="submit" value="Saludar/ Greet" id="saludar-button" />
     </form>
     <div id="resultado-div"></div>
 
